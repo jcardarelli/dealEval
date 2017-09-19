@@ -1,9 +1,5 @@
-
-# README.md
-#####################################################
-
 # Analyzing commercial real estate quickly and easily
-https://www.youtube.com/watch?v = m8QIzxXRMGA
+https://www.youtube.com/watch?v=m8QIzxXRMGA
 
 Three things to know about the deal you're analyzing:
 1. How much money does it make?
@@ -11,8 +7,7 @@ Three things to know about the deal you're analyzing:
 3. How does this investment compare to other investments?
 
 
-# Five key terms:
-#################
+## Five key terms:
 
  1. Income and Expenses
 	 Definition:
