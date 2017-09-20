@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+from dealEval import DealEval
+
 def newDeal(price, income, expenses, mortgage_payment, down_payment):
     """
     price: Sale price
